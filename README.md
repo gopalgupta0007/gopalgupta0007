@@ -8,7 +8,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gopalgupta0007" alt="gopalgupta0007" /></a> </p>
 
-- 🌱 I’m currently learning **Tinder Clone Using HTML & CSS**
+- 🌱 I’m currently learning **MERN Stack Development**
+
+- ✨ I'm currently working on **RandomType Web Application** using MERN
 
 - 📫 How to reach me **guptagopal18082003@gmail.com**
 
